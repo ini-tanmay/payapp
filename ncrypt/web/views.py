@@ -5,7 +5,7 @@ from .abi import standard_abi as abi
 import json
 # url='https://api.s0.b.hmny.io/'
 # url= 'https://mainnet.infura.io/v3/12bf32a5b691494da2fda4f3be4bad4e
-# roposten
+# ropost
 
 url='https://ropsten.infura.io/v3/12bf32a5b691494da2fda4f3be4bad4e'
 web = Web3(Web3.HTTPProvider(url))
